@@ -104,6 +104,6 @@ A self-taught, passionate and fast-learner full-stack developer  from Butwal, ðŸ
 
 </div>
 
-![](https://ashokkc.com.np/static/nepal.png)
+![](https://ashokkc.com.np/static/nepal.jpg)
 
 
