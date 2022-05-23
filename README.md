@@ -6,20 +6,19 @@
 
 A self-taught, passionate and fast-learner full-stack developer  from Butwal, 🌎. Now I'm a final year student of undergrad Bachelor of Computer Application👨‍🎓. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web 🚀. 
 
-![](https://visitor-badge.glitch.me/badge?page_id=PriontoAbdullah.PriontoAbdullah)
-![age](https://img.shields.io/badge/age-24-blueviolet)
+![](https://visitor-badge.glitch.me/badge?page_id=akc3416)
+![age](https://img.shields.io/badge/age-21-blueviolet)
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
-![living](https://img.shields.io/badge/living-Dhaka-ff69b4)
+![living](https://img.shields.io/badge/living-Nepal-ff69b4)
 ![projects](https://img.shields.io/badge/projects-33-important)
 
-<img width="40%" align="right" alt="Github Image" src="https://media.giphy.com/media/V21UwO1oh2nswmq08I/giphy.gif" />
 
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 - 🌱 I’m currently learning TypeScript, NextJS, GraphQL and React-Native.
 - 👯 I’m looking to collaborate on MERN Stack projects with other passionate developers.
-- 🥅 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects.
+- 🥅 2022 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects.
 - ⚡ Fun fact: I really love to travel and explore new things in my free time.
-- 📝 Please have a look at my [Resume](https://drive.google.com/file/d/1W1qOeiwtA_z7bTVZTjyOtagnEdOSJttK/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+
 
 <br />
 
@@ -87,8 +86,8 @@ A self-taught, passionate and fast-learner full-stack developer  from Butwal, �
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=PriontoAbdullah&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=PriontoAbdullah&theme=radical" width="45%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=akc3416&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=akc3416&theme=radical" width="45%" >
 
 <br /> 
 
