@@ -42,7 +42,7 @@ Git & GitHub | Docker | AWS | DigitalOcean | VS Code
 
 ## 📬 Connect with Me
 
-[Portfolio](https://ashokkc.com.np/) | [LinkedIn](https://www.linkedin.com/in/akc3416/) | [GitHub](https://github.com/akc3416/) | [Medium](https://akc3416.medium.com/) | [Facebook](https://www.facebook.com/akc3416/) | [Instagram](https://www.instagram.com/asok.kc/) | [Email](mailto:kgpnmaa7@gmail.com)
+[Portfolio](https://kcashok.com.np/) | [LinkedIn](https://www.linkedin.com/in/akc3416/) | [GitHub](https://github.com/akc3416/) | [Medium](https://akc3416.medium.com/) | [Facebook](https://www.facebook.com/akc3416/) | [Instagram](https://www.instagram.com/asok.kc/) | [Email](mailto:ashok@abssoft.com.np)
 
 ---
 
